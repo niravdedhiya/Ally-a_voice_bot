@@ -8,4 +8,3 @@ To send email: "Send email [RECEIVER] [MESSAGE]".
 
 To make phone call: "Call [CONTACT NAME]
 
-abc
